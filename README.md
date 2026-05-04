@@ -1,20 +1,31 @@
-<<<<<<< HEAD
-# React + Vite
+    Gestor de Gastos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web desarrollada con React + Vite para gestionar ingresos y gastos personales de forma sencilla.
 
-Currently, two official plugins are available:
+    Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://gestor-gastos-react.netlify.app/
 
-## React Compiler
+    Tecnologías utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* JavaScript (ES6+)
+* CSS
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# gestor-gastos-react
->>>>>>> 1d19a396e07decd831743195d9089b9ad74a4f49
+    Funcionalidades
+
+* Agregar gastos
+* Editar gastos
+* Eliminar gastos
+* Filtrar por categoría
+* Control de presupuesto
+
+     Autor
+
+* Gabriel Nieva
+
+    Objetivo
+Proyecto realizado como práctica de desarrollo frontend para portfolio.
+
