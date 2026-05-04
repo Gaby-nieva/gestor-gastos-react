@@ -20,7 +20,7 @@ https://gestor-gastos-react.netlify.app/
 * Editar gastos
 * Eliminar gastos
 * Filtrar por categoría
-* Control de presupuesto
+* Persistencia de datos en el navegador
 
      Autor
 
